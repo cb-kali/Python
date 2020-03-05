@@ -11,18 +11,18 @@ First_Name = "udit" # variable declar in small case
 Last_Name = "SHARMA" # variable declar in upper case
 # convert the first letter to capital
 print(First_Name) # check
-print(First_Name,title()) # convert 
+print(First_Name.title()) # convert 
 # convet the letter in capital
 print(First_Name) # check
-print(First_Name,upper()) # convert
+print(First_Name.upper()) # convert
 # convert the letter in small
 print(Last_Name) # check
-print(Last_Name,lower()) # convert
+print(Last_Name.lower()) # convert
 
 # using 'f' String
 Full_Name = f'This is First name of candidate: {First_Name} and Last name: {Last_Name}'
 print(Full_Name)
 
 # convert the first letter in capital
-print(Full_Name,title())
+print(Full_Name.title())
 
