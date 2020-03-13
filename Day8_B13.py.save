@@ -1,0 +1,28 @@
+# Inroduction to tuple data type : tuple is a immutable data type ---> we cann't able to modify / alter or reassing the element once it gets assigned
+# How to define a tuple ? ----> () ---> Normal Bracket's
+Demension = (300,10)
+print(Demension)
+# Check data type:
+print(type(Demension))
+
+# Isn't update :
+# eaxmple : Input : Demension[0] = 250
+# Output : TypeError : 'tuple' object does not support item assigment
+# New tuple
+Lang = ('Python','C','Html','Java','Css')
+print(Lang)
+print(Lang[0],'is  my favorite') # print : Python 
+# Introduction in dictionary data type : *** most important data types
+# How to define a dictionary data types -->{ } ----> Curley_Braces
+# Point to rember in this concept
+'''
+str ---> "","""""",''
+list ---> []
+tuple ---> ()
+dictionay ---> {}
+'''
+Atm_Pin = {"Name":"Udit","Pin":123456789}
+print(Atm_Pin)
+# Acess
+client = print(Atm_Pin['Name'])
+print(f" Welcome {client} sir")
