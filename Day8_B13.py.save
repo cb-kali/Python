@@ -24,5 +24,4 @@ dictionay ---> {}
 Atm_Pin = {"Name":"Udit","Pin":123456789}
 print(Atm_Pin)
 # Acess
-client = print(Atm_Pin['Name'])
-print(f" Welcome {client} sir")
+print(Atm_Pin['Name'])
