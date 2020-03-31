@@ -1,3 +1,3 @@
 # python_b13
-pythpn partice with Faiyaz Shaik
+pythpn partice 
 Only Understand python fundamental
