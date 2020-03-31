@@ -1,3 +1,2 @@
-# python_b13
-pythpn partice 
+python partice 
 Only Understand python fundamental
