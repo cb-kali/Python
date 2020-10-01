@@ -1,2 +1,3 @@
-python partice 
-Only Understand python fundamental
+# Python Partice 
+
+# Understanding Python Fundamentals
