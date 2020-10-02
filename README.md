@@ -1,3 +1,3 @@
-# Python Partice 
+# Python Practice
 
 # Understanding Python Fundamentals
